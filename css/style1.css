@@ -1,0 +1,53 @@
+main img {
+    height: 15em;
+  }
+  
+  header h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: xxx-large;
+    color: #075596;
+  }
+  main h2 {
+    font-family: 'Ubuntu', sans-serif;    
+    margin-top:15px ;
+  }
+  
+  nav {
+    width: 20%;
+    margin: auto;
+  }
+
+  nav a {
+    font-family: 'Assistant', sans-serif;
+    text-decoration: none;
+    color: rgb(5, 14, 1);
+    display: inline-block ;
+    margin-bottom: 0.25em;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    margin-top:15px ;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+    background-color: #066e02e8;
+  }
+  
+  main {
+    font-family: 'Arimo', sans-serif;
+  }
+  
+  main em {
+    font-weight: bold;
+  }
+  
+  footer {
+    height: 3em;
+    background-color: #075596;
+    color: #fcfffbe8;
+  }
+  
+  footer p {
+    text-align: center;
+  }

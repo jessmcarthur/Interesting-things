@@ -12,18 +12,24 @@
     font-family: 'Ubuntu', sans-serif;    
     margin-top:15px ;
   }
+
+nav {
+  width: 20%;
+  margin: auto;
+}
   
   nav a {
     font-family: 'Assistant', sans-serif;
     text-decoration: none;
     color: rgb(3, 8, 0);
-    display:  block;
+    display: inline block;
     margin-bottom: 0.25em;
     padding-left: 0.25em;
     padding-right: 0.25em;
-    margin-top:15px ;
-  }
-  
+    margin-top: 0.25em;
+    
+    }
+    
   nav a:hover {
     text-decoration: underline;
     background-color: #038615;
