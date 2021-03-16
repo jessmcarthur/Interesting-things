@@ -1,0 +1,46 @@
+  main img {
+    height: 15em;
+  }
+  
+  header h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: xxx-large;
+  }
+  header h2 {
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  nav a {
+    font-family: 'Arimo', sans-serif;
+    text-decoration: none;
+    color: rgb(5, 14, 1);
+    display: inline block;
+    margin-bottom: 0.25em;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    text-align: center;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+    background-color: #168ae9;
+  }
+  
+  main {
+    font-family: 'Arimo', sans-serif;
+  }
+  
+  main em {
+    font-weight: bold;
+  }
+  
+  footer {
+    height: 3em;
+    background-color: #066e02e8;
+    color: #fcfffbe8;
+  }
+  
+  footer p {
+    text-align: center;
+  }
