@@ -6,25 +6,27 @@
     font-family: 'Dancing Script', cursive;
     text-align: center;
     font-size: xxx-large;
+    color: #075596;
   }
-  header h2 {
-    font-family: 'Oswald', sans-serif;
+  main h2 {
+    font-family: 'Ubuntu', sans-serif;    
+    margin-top:15px ;
   }
   
   nav a {
-    font-family: 'Arimo', sans-serif;
+    font-family: 'Assistant', sans-serif;
     text-decoration: none;
-    color: rgb(5, 14, 1);
-    display: inline block;
+    color: rgb(3, 8, 0);
+    display:  block;
     margin-bottom: 0.25em;
     padding-left: 0.25em;
     padding-right: 0.25em;
-    text-align: center;
+    margin-top:15px ;
   }
   
   nav a:hover {
     text-decoration: underline;
-    background-color: #168ae9;
+    background-color: #038615;
   }
   
   main {
@@ -37,7 +39,7 @@
   
   footer {
     height: 3em;
-    background-color: #066e02e8;
+    background-color: #075996;
     color: #fcfffbe8;
   }
   
