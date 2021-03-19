@@ -5,9 +5,9 @@ footer { grid-area: f; }
 
 body {
   display: grid;
-  grid: " h  " auto
-        " n  " auto
-        " m  " auto
-        " f  " auto
-        / 1fr 
-}
+  grid: " h h h  " auto
+        " n n n  " auto
+        " . m .  " auto
+        " f f f  " auto
+        /1fr 3fr 1fr ;
+      }

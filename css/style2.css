@@ -1,5 +1,5 @@
   main img {
-    height: 15em;
+    height: 10em;
   }
   
   header h1 {
@@ -32,15 +32,20 @@ nav {
     
   nav a:hover {
     text-decoration: underline;
-    background-color: #038615;
+    background-color: #2edb45;
   }
   
   main {
     font-family: 'Arimo', sans-serif;
   }
-  
-  main em {
-    font-weight: bold;
+
+  div {
+    width: fit-content;
+    margin:auto;
+  }
+
+  figure {
+    display:inline-block;
   }
   
   footer {
